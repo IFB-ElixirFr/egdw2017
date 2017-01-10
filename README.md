@@ -72,7 +72,7 @@ Lunch will be taken in 7Hotel restaurant.
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
-| 09:00 | Installation | [Slides](https://igbmc.github.io/egdw2017/day4/00-installation/index.html) | B + J + S |
+| 09:00 | Installation | [Slides](https://igbmc.github.io/egdw2017/day4/admin/00-installation/index.html) | B + J + S |
 | 09:30 | Galaxy Architecture |  | B + J + S |
 | 10:00 | **Morning Break** |  |  |
 | 10:30 | Install and config best practices |  | B + J + S |
