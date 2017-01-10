@@ -1,6 +1,8 @@
-# European Galaxy Developer Workshop
+# European Galaxy Developer Workshop 2017
 
 **Illkirch, France - 16th to 19th January 2017**
+
+[Workshop Home Page](http://www.france-bioinformatique.fr/fr/evenements/EGDW2017)
 
 jump to [Monday](#monday) | [Tuesday](#tuesday) | [Wednesday](#wednesday) | [Thursday](#thursday)
 
