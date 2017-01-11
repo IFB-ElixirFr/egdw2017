@@ -59,7 +59,7 @@ Lunch will be taken in 7Hotel restaurant.
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
-| 09:00 | BioBlend API |  | O + F + J |
+| 09:00 | BioBlend API | [slides](https://github.com/C3BI-pasteur-fr/training-material/tree/pasteur_bioblend/pasteur_bioblend) | O + F + J |
 | 10:00 | **Morning Break** |  |  |
 | 10:30 | BioBlend API |  | O + F + J |
 | 11:30 | Galaxy Visualisation |  | Sa + Y |
