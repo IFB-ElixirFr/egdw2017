@@ -142,11 +142,11 @@ They are created automatically by Galaxy during the first launch.
 
 - **galaxy.ini**: main configuration of the instance
 
-- **tool_conf.xml**: available tools
-
 - **tool_sheds_conf.xml**: ToolShed accessible from the instance
 
-- **shed_tool_conf.xml**: tools deployed on the instance through a ToolShed
+- **tool_conf.xml**: tools "installed manually"
+
+- **shed_tool_conf.xml**: tools deployed on the instance from a ToolShed
 
 - **datatypes_conf.xml**: various data type declaration
 
@@ -619,7 +619,7 @@ Exemple :
     <param id="nativeSpecification">-q galaxy</param>
   </destination>
   <destination id="smallmem" runner="slurm">
-    <param id="nativeSpecification">--mem-per-cpu=512</param>
+    <param id="nativeSpecification">-q galaxy --mem-per-cpu=512</param>
     <resubmit condition="memory_limit_reached" destination="bigmem" />
   </destination>
 </destinations>
