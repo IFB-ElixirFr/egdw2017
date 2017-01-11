@@ -673,3 +673,31 @@ Exemples :
   <limit type="output_size">10GB</limit>
 </limits>
 ```
+---
+
+template: title
+
+# Scalling
+
+---
+
+## Scalling
+### Nginx
+
+
+
+---
+
+## Scalling
+### uWSGI
+
+
+
+---
+
+## Scalling
+### Supervisor
+
+
+
+---
