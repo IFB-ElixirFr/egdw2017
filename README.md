@@ -34,12 +34,12 @@ Lunch will be taken in 7Hotel restaurant.
 | -------- | --------- | --------- | ----------- |
 | 09:00 | Welcome and Introduction |  | All |
 | 10:00 | **Morning Break** |  |  |
-| 10:30 | Galaxy Tool Integration Best Practices | [slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/tool_integration.html) | A + Bé + B + G |
-| 11:30 | Planemo Tool Wrapping | [slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/tool_integration.html) | A + Bé + B + G |
+| 10:30 | Galaxy Tool Integration Best Practices | [slides](https://github.com/galaxyproject/training-material/tree/master/Dev-Corner) | A + Bé + B + G |
+| 11:30 | Planemo Tool Wrapping | [slides](https://github.com/galaxyproject/training-material/tree/master/Dev-Corner) | A + Bé + B + G |
 | 12:30 | **Lunch**, *catered* | | |
-| 13:30 | Planemo Tool Wrapping | [slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/tool_integration.html) | A + Bé + B + G |
+| 13:30 | Planemo Tool Wrapping | [slides](https://github.com/galaxyproject/training-material/tree/master/Dev-Corner) | A + Bé + B + G |
 | 15:30 | **Afternoon Break** | | |
-| 16:00 | Writing dependencies : Conda recipes | [slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/tool_integration.html) | A + Bé + B + G |
+| 16:00 | Writing dependencies : Conda recipes | [slides](https://github.com/galaxyproject/training-material/tree/master/Dev-Corner) | A + Bé + B + G |
 | 18:00 | Close Day 1, *Dinner on your own* |  |  |
 
 ### Tuesday
@@ -52,7 +52,7 @@ Lunch will be taken in 7Hotel restaurant.
 | 12:30 | **Lunch**, *catered* | | |
 | 13:30 | Wrap Session |  | |
 | 15:30 | **Afternoon Break** | | |
-| 16:00 | ToolShed upload and tool-iuc PR |  | Bé + B + G |
+| 16:00 | ToolShed upload and tool-iuc PR | [slides](https://github.com/galaxyproject/training-material/tree/master/Dev-Corner) | Bé + B + G |
 | 18:00 | Close Day 2, *Dinner on your own* |  |  |
 
 ### Wednesday
