@@ -34,12 +34,12 @@ Lunch will be taken in 7Hotel restaurant.
 | -------- | --------- | --------- | ----------- |
 | 09:00 | Welcome and Introduction |  | All |
 | 10:00 | **Morning Break** |  |  |
-| 10:30 | Galaxy Tool Integration Best Practices | [slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/tool_integration.html) | A + Bé + B + G |
-| 11:30 | Planemo Tool Wrapping | [slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/tool_integration.html) | A + Bé + B + G |
+| 10:30 | Galaxy Tool Integration Best Practices | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/tool_integration.html) | A + Bé + B + G |
+| 11:30 | Planemo Tool Wrapping | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/tool_integration.html) | A + Bé + B + G |
 | 12:30 | **Lunch**, *catered* | | |
-| 13:30 | Planemo Tool Wrapping | [slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/tool_integration.html) | A + Bé + B + G |
+| 13:30 | Planemo Tool Wrapping | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/tool_integration.html) | A + Bé + B + G |
 | 15:30 | **Afternoon Break** | | |
-| 16:00 | Writing dependencies : Conda recipes | [slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/tool_integration.html) | A + Bé + B + G |
+| 16:00 | Writing dependencies : Conda recipes | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/tool_integration.html) | A + Bé + B + G |
 | 18:00 | Close Day 1, *Dinner on your own* |  |  |
 
 ### Tuesday
@@ -48,11 +48,11 @@ Lunch will be taken in 7Hotel restaurant.
 | -------- | --------- | --------- | ----------- |
 | 09:00 | Wrap Session |  | A + Bé + B + G |
 | 10:00 | **Morning Break** |  |  |
-| 10:30 | Wrap Session | [slides](https://github.com/galaxyproject/training-material/tree/master/Dev-Corner) |  |
+| 10:30 | Wrap Session | [Slides](https://github.com/galaxyproject/training-material/tree/master/Dev-Corner) |  |
 | 12:30 | **Lunch**, *catered* | | |
-| 13:30 | Wrap Session | [slides](https://github.com/galaxyproject/training-material/tree/master/Dev-Corner) | |
+| 13:30 | Wrap Session | [Slides](https://github.com/galaxyproject/training-material/tree/master/Dev-Corner) | |
 | 15:30 | **Afternoon Break** | | |
-| 16:00 | ToolShed upload and tool-iuc PR | [slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/toolshed.html) | Bé + B + G |
+| 16:00 | ToolShed upload and tool-iuc PR | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/toolshed.html) | Bé + B + G |
 | 18:00 | Close Day 2, *Dinner on your own* |  |  |
 
 ### Wednesday
@@ -67,7 +67,7 @@ Lunch will be taken in 7Hotel restaurant.
 | 13:30 | Galaxy Visualisation |  | Sa + Y |
 | 15:30 | **Afternoon Break** | | |
 | 16:00 | Galaxy Interactive Tour |  | Bé + B + S |
-| 18:00 | Close Day 2 |  |  |
+| 18:00 | Close Day 3 |  |  |
 | 20:00 | **Working Dinner** |  |  |
 
 ### Thursday
@@ -76,7 +76,7 @@ Lunch will be taken in 7Hotel restaurant.
 | -------- | --------- | --------- | ----------- |
 | 09:00 | Installation | [Slides](https://igbmc.github.io/egdw2017/day4/admin/00-installation/index.html) | J |
 | 09:25 | Galaxy Configuration Hierarchy | [Slides](https://igbmc.github.io/egdw2017/day4/admin/01-configuration-hierarchy/index.html) | J |
-| 09:50 | Database choice and configuration |  | J |
+| 09:50 | Database choice and configuration | [Slides](https://igbmc.github.io/egdw2017/day4/admin/02-database/index.html) | J |
 | 10:10 | **Morning Break** |  |  |
 | 10:40 | Web server choices and configuration |  | S |
 | 11:00 | Galaxy Administration |  | S |
