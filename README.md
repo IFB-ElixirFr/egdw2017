@@ -81,7 +81,7 @@ Lunch will be taken in 7Hotel restaurant.
 | 10:40 | Web server choices and configuration |  | S |
 | 11:00 | Galaxy Administration |  | S |
 | 11:10 | Defining and importing genomes, Data Managers |  | S |
-| 11:30 | Galaxy Handlers |  | J |
+| 11:30 | Galaxy Handlers | [Slides](https://igbmc.github.io/egdw2017/day4/admin/06-handlers/index.html) | J |
 | 11:45 | Connecting Galaxy to a compute cluster |  | S |
 | 12:00 | Building an European Community |  | Fr |
 | 12:30 | **Lunch**, *catered* | | |
