@@ -74,10 +74,15 @@ Lunch will be taken in 7Hotel restaurant.
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
-| 09:00 | Installation | [Slides](https://igbmc.github.io/egdw2017/day4/admin/00-installation/index.html) | B + J + S |
-| 09:30 | Galaxy Architecture |  | B + J + S |
-| 10:00 | **Morning Break** |  |  |
-| 10:30 | Install and config best practices |  | B + J + S |
+| 09:00 | Installation | [Slides](https://igbmc.github.io/egdw2017/day4/admin/00-installation/index.html) | J |
+| 09:25 | Galaxy Configuration Hierarchy | [Slides](https://igbmc.github.io/egdw2017/day4/admin/01-configuration-hierarchy/index.html) | J |
+| 09:50 | Database choice and configuration |  | J |
+| 10:10 | **Morning Break** |  |  |
+| 10:40 | Web server choices and configuration |  | S |
+| 11:00 | Galaxy Administration |  | S |
+| 11:10 | Defining and importing genomes, Data Managers |  | S |
+| 11:30 | Galaxy Handlers |  | J |
+| 11:45 | Connecting Galaxy to a compute cluster |  | S |
 | 12:00 | Building an European Community |  | Fr |
 | 12:30 | **Lunch**, *catered* | | |
 | 13:30 | Docker |  | Ab + V |
