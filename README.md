@@ -84,7 +84,6 @@ Lunch will be taken in 7Hotel restaurant.
 | 11:20 | Galaxy Administration | [Slides](https://igbmc.github.io/egdw2017/day4/admin/06-admin/index.html) | S |
 | 11:40 | Defining and importing genomes, Data Managers | [Slides](https://igbmc.github.io/egdw2017/day4/admin/07-genomes-datamanagers/index.html) | S |
 | 11:20 | Users, Groups, and Quotas | [Slides](https://igbmc.github.io/egdw2017/day4/admin/08-quota-users-groups/index.html) | S |
-
 | 12:00 | Building an European Community |  | Fr |
 | 12:30 | **Lunch**, *catered* | | |
 | 13:30 | Docker |  | Ab + V |
