@@ -56,8 +56,8 @@ Your questions will be answered
 
 # Defaults
 
-* Galaxy uses databse abstraction layer SQLAlchemy. This allows for different databases engine to be plugged in.
-* By default, Galaxy will automatically create and use a SQLite databse during first startup.
+* Galaxy uses database abstraction layer SQLAlchemy. This allows for different databases engine to be plugged in.
+* By default, Galaxy will automatically create and use a SQLite database during first startup.
 
 *The database is in file `database/universe.sqlite`*
 

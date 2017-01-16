@@ -207,14 +207,6 @@ brand = My awesome instance
 
 ---
 
-# Make yourself an administrator
-
-* Create a user using Galaxy interface
-* Modify `galaxy.ini` to include `admin_users = your@ema.il`
-* (Re)start Galaxy
-
----
-
 # What to do next ?
 
 * Keep your code up to date

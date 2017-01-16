@@ -78,11 +78,13 @@ Lunch will be taken in 7Hotel restaurant.
 | 09:25 | Galaxy Configuration Hierarchy | [Slides](https://igbmc.github.io/egdw2017/day4/admin/01-configuration-hierarchy/index.html) | J |
 | 09:50 | Database choice and configuration | [Slides](https://igbmc.github.io/egdw2017/day4/admin/02-database/index.html) | J |
 | 10:10 | **Morning Break** |  |  |
-| 10:40 | Web server choices and configuration |  | S |
-| 11:00 | Galaxy Administration |  | S |
-| 11:10 | Defining and importing genomes, Data Managers |  | S |
-| 11:30 | Galaxy Handlers | [Slides](https://igbmc.github.io/egdw2017/day4/admin/06-handlers/index.html) | J |
-| 11:45 | Connecting Galaxy to a compute cluster |  | S |
+| 10:40 | Galaxy Handlers | [Slides](https://igbmc.github.io/egdw2017/day4/admin/03-handlers/index.html) | J |
+| 10:55 | Web server choices and configuration | https://igbmc.github.io/egdw2017/day4/admin/04-web-server/index.html | S |
+| 11:10 | Connecting Galaxy to a compute cluster | https://igbmc.github.io/egdw2017/day4/admin/05-compute-cluster/index.html | S |
+| 11:20 | Galaxy Administration | https://igbmc.github.io/egdw2017/day4/admin/06-admin/index.html | S |
+| 11:40 | Defining and importing genomes, Data Managers | https://igbmc.github.io/egdw2017/day4/admin/07-genomes-datamanagers/index.html | S |
+| 11:20 | Users, Groups, and Quotas | https://igbmc.github.io/egdw2017/day4/admin/08-quota-users-groups/index.html | S |
+
 | 12:00 | Building an European Community |  | Fr |
 | 12:30 | **Lunch**, *catered* | | |
 | 13:30 | Docker |  | Ab + V |
