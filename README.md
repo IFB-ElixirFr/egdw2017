@@ -32,7 +32,7 @@ Lunch will be taken in 7Hotel restaurant.
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
-| 09:00 | Welcome and Introduction |  | All |
+| 09:00 | Welcome and Introduction | [Slides](https://igbmc.github.io/egdw2017/day1/introduction.pdf) | All |
 | 10:00 | **Morning Break** |  |  |
 | 10:30 | Galaxy Tool Integration Best Practices | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/tool_integration.html) | A + Bé + B + G |
 | 11:30 | Planemo Tool Wrapping | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/tool_integration.html) | A + Bé + B + G |
