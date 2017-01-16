@@ -48,7 +48,6 @@ template: content
 # Make yourself an administrator
 
 * Create a user using Galaxy interface
-
 .center.verysmallimage[![User menu](./images/user-menu.png)]
 
 * Modify `galaxy.ini` to include `admin_users = your@ema.il`
