@@ -66,7 +66,7 @@ template: content
 
 ---
 template: content
-# Before starting let's make this working
+# Before starting let's make things working
 ## Hands-on
 
 - Start your toolshed (in galaxy home directory):
