@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+
+  <title>Galaxy ToolShed</title>
+
+  <link rel="stylesheet" href="../../assets/reveal.js/css/reveal.css">
+  <link rel="stylesheet" href="../../assets/reveal.js/css/theme/simple.css" id="theme">
+
+  <!-- Code syntax highlighting -->
+  <link rel="stylesheet" href="../../assets/reveal.js/lib/css/zenburn.css">
+  <link rel="stylesheet" href="../../assets/css/font-awesome.css">
+  <link rel="stylesheet" href="../../assets/css/slide_custom.css" id="theme">
+
+  <link rel="stylesheet" href="pure-min.css">
+  <link rel="stylesheet" href="callout.css" media="screen">
+  <link rel="stylesheet" href="main.css" media="screen">
+
+  <!-- Printing and PDF exports -->
+      <script>
+        if( window.location.search.match( /print-pdf/gi ) ) {
+          var link = document.createElement( 'link' );
+          link.rel = 'stylesheet';
+          link.type = 'text/css';
+          link.href = '../../assets/reveal.js/css/print/pdf.css';
+          document.getElementsByTagName( 'head' )[0].appendChild( link );
+        }
+      </script>
+  <!--<script>
+          if (window.location.search.match(/print-pdf/gi)) {
+              document.write('<link rel="stylesheet" href="css/pdf.css" type="text/css">');
+          }
+      </script>-->
+
+  <!--[if lt IE 9]>
+      <script src="../../assets/reveal.js/lib/js/html5shiv.js"></script>
+      <![endif]-->
+</head>
+
+  <body>
+
+    <script src="remark-latest.min.js">
+    </script>
+    <script>
+    var slideshow = remark.create({
+      ratio: '16:9',
+      countIncrementalSlides: false,
+      sourceUrl: 'toolshed.md'
+    });
+    </script>
+  </body>
+</html>
