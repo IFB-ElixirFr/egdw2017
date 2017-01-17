@@ -66,15 +66,6 @@ template: content
 
 ---
 template: content
-# Before starting let's make things working
-## Hands-on
-
-- Start your toolshed (in galaxy home directory):
-```bash
-./run_tool_shed.sh
-```
----
-template: content
 
 # What is a Tool Shed?
 ![Toolshed](./images/toolShed.jpg)
@@ -125,6 +116,19 @@ template: content
 
 # Example of tool
 .image60[![Example tool in toolshed](./images/exampletool_ss.png)]
+
+---
+template: content
+# Before moving on let's make things working
+## Hands-on
+- Go to Galaxy sources
+```bash
+cd ~/galaxy
+```
+- Start your toolshed (in galaxy home directory):
+```bash
+./run_tool_shed.sh
+```
 
 ---
 template: title
