@@ -52,7 +52,7 @@ Lunch will be taken in 7Hotel restaurant.
 | 12:30 | **Lunch**, *catered* | | |
 | 13:30 | Wrap Session | [Slides](https://github.com/galaxyproject/training-material/tree/master/Dev-Corner) | |
 | 15:30 | **Afternoon Break** | | |
-| 16:00 | ToolShed upload and tool-iuc PR | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/toolshed.html) | Bé + B + G |
+| 16:00 | ToolShed upload and tool-iuc PR | [Slides](https://igbmc.github.io/egdw2017/day2/toolshed/index.html) | Bé + B + G |
 | 18:00 | Close Day 2, *Dinner on your own* |  |  |
 
 ### Wednesday
