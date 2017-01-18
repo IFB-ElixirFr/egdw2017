@@ -59,11 +59,11 @@ $ GALAXY_RUN_ALL=1 ./run.sh --daemon
 template: content
 
 # Admin interface
- * Visualize data types and data table
+ * Visualize data types and data tables
  * Manage jobs
  * Install tools using the Tool Shed
  * Reload a tool wrapper (after some modifications)
- * Manage Users, quotas and groups
+ * Manage users, quotas and groups
  * Use data managers
  * Manage data libraries (shared data)
 .center.image[![Administration](./images/administration.png)]
