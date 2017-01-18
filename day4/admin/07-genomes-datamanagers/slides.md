@@ -93,7 +93,7 @@ template: content
 template: empty-footer
 # Using reference data in a tool
 
-#### bwa.xml
+#### bwa_wrapper.xml
 
 ``` xml
 <conditional name="reference_source">
@@ -103,7 +103,7 @@ template: empty-footer
       </param>
       <when value="cached">
         <param name="ref_file" type="select" label="Using reference genome" help="Select genome from the list">
-          <options from_data_table="bwa_mem_indexes">
+          <options from_data_table="bwa_indexes">
             <filter type="sort_by" column="2" />
             <validator type="no_options" message="No indexes are available" />
           </options>
