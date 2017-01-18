@@ -62,9 +62,9 @@ Lunch will be taken in 7Hotel restaurant.
 | 09:00 | BioBlend API | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/bioblend_api.html) | O + F + J |
 | 10:00 | **Morning Break** |  |  |
 | 10:30 | BioBlend API | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/bioblend_api.html) | O + F + J |
-| 11:30 | Galaxy Visualisation | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/bioblend_api.html) [Tutorial](http://galaxyproject.github.io/training-material/Dev-Corner/tutorials/visualizations) | Sa + Y |
+| 11:30 | Galaxy Visualisation | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/visualizations.html) [Tutorial](http://galaxyproject.github.io/training-material/Dev-Corner/tutorials/visualizations) | Sa + Y |
 | 12:30 | **Lunch**, *catered* | | |
-| 13:30 | Galaxy Visualisation | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/bioblend_api.html) [Tutorial](http://galaxyproject.github.io/training-material/Dev-Corner/tutorials/visualizations) | Sa + Y |
+| 13:30 | Galaxy Visualisation | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/visualizations.html) [Tutorial](http://galaxyproject.github.io/training-material/Dev-Corner/tutorials/visualizations) | Sa + Y |
 | 15:30 | **Afternoon Break** | | |
 | 16:00 | Galaxy Interactive Tour | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/interactive_tour.html) | Bé + B + S |
 | 18:00 | Close Day 3 |  |  |
