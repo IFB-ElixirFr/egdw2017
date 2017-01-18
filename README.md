@@ -59,9 +59,9 @@ Lunch will be taken in 7Hotel restaurant.
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
-| 09:00 | BioBlend API | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/bioblend_api.html#4) | O + F + J |
+| 09:00 | BioBlend API | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/bioblend_api.html) | O + F + J |
 | 10:00 | **Morning Break** |  |  |
-| 10:30 | BioBlend API |  | O + F + J |
+| 10:30 | BioBlend API | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/bioblend_api.html) | O + F + J |
 | 11:30 | Galaxy Visualisation | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/bioblend_api.html) [Tutorial](http://galaxyproject.github.io/training-material/Dev-Corner/tutorials/visualizations) | Sa + Y |
 | 12:30 | **Lunch**, *catered* | | |
 | 13:30 | Galaxy Visualisation | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/bioblend_api.html) [Tutorial](http://galaxyproject.github.io/training-material/Dev-Corner/tutorials/visualizations) | Sa + Y |
