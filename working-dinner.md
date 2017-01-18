@@ -1,5 +1,9 @@
 # EGDW 2017 - Working dinner
 
+## When ?
+
+Wednesday, January, 18, 2017, 8pm
+
 ## Where ?
 
 La Maison Kammerzell<br/>
