@@ -77,22 +77,22 @@ template: content
 - Many authentication plugins written for Apache
 - Can offload file downloads
 
-## nginx
+## NGiNX
 
 - Designed specifically to be a load balancing reverse proxy
 - Widely used by large sites (third most popular web server)
 - Can offload both uploads and downloads
 
 <br/>
-**I recommend nginx unless you have a specific need for Apache**
+**I recommend NGiNX unless you have a specific need for Apache**
 
 ---
 
 template: content
 
-# nginx "flavors"
+# NGiNX "flavors"
 
-nginx plugins must be compiled in<sup>[1]</sup>
+NGiNX plugins must be compiled in<sup>[1]</sup>
 
 Debian/Ubuntu provide multiple nginx "flavors":
 - `nginx-light`: minimal set of core modules
@@ -111,7 +111,7 @@ template: title
 
 # Hands-on !
 
-## Set up nginx as a Reverse Proxy for Galaxy
+## Set up NGiNX as a Reverse Proxy for Galaxy
 
 ---
 
@@ -182,10 +182,32 @@ serving on http://127.0.0.1:8082
 
 ---
 
-# Create a Nginx configuration
+# Stop Apache
+
+```shell
+$ sudo service httpd stop
+```
+
+---
+
+# Install NGiNX
+
+```shell
+$ sudo yum install nginx
+```
+
+---
+
+# Disable NGiNX default config
+
+```shell
+$ sudo mv /etc/nginx/conf.d/default.conf /etc/nginx/conf.d/default.conf.disabled
+```
+
+# Create a NGiNX configuration
 * Create a new virtual host file for Galaxy in your Nginx configuration
 ```shell
-$ sudo vim /etc/nginx/sites-available/galaxy
+$ sudo vim /etc/nginx/conf.d/galaxy.conf
 ```
 
 <br/>
@@ -193,7 +215,7 @@ $ sudo vim /etc/nginx/sites-available/galaxy
 
 ---
 
-# Create a Nginx configuration
+# Create a NGiNX configuration
 ```
 upstream galaxy {
     server localhost:8081;
@@ -218,24 +240,10 @@ server {
 ```
 
 ---
-# Apply nginx configuration
-
-* Disable the default nginx virtual host
+# Start NGiNX
 
 ```shell
-$ sudo rm /etc/nginx/sites-enabled/default
-```
-
-* Enable your Galaxy virtual host
-
-```shell
-$ sudo ln -s /etc/nginx/sites-available/galaxy /etc/nginx/sites-enabled/galaxy
-```
-
-* Reload nginx
-
-```shell
-$ sudo service nginx reload
+$ sudo service nginx start
 ```
 
 * Access your Galaxy instance on http://localhost
