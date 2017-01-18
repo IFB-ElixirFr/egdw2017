@@ -68,7 +68,7 @@ Lunch will be taken in 7Hotel restaurant.
 | 15:30 | **Afternoon Break** | | |
 | 16:00 | Galaxy Interactive Tour | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/interactive_tour.html) | Bé + B + S |
 | 18:00 | Close Day 3 |  |  |
-| 20:00 | **Working Dinner** |  |  |
+| 20:00 | [**Working Dinner**](/working-dinner.md) |  |  |
 
 ### Thursday
 
