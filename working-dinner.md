@@ -23,7 +23,7 @@ From **Campus d'Illkirch** till **Langstross Grand Rue**
 
 ### 3 - Walk to the restaurant (4 min)
 
-The Maison Kammerzell restaurant is located very close to the Strasbourg cathdral.
+The Maison Kammerzell restaurant is located very close to the Strasbourg cathedral.
 
 ![Cathedral](/images/cathedrale-notre-dame.jpg)
 
