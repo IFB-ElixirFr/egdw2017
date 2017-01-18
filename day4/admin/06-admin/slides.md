@@ -42,7 +42,6 @@ EGDW 2017 - **Hands-on**
 ]
 
 ---
-
 template: content
 
 # Make yourself an administrator
@@ -55,3 +54,16 @@ template: content
 ```shell
 $ GALAXY_RUN_ALL=1 ./run.sh --daemon
 ```
+
+---
+template: content
+
+# Admin interface
+ * Visualize data types and data table
+ * Manage jobs
+ * Install tools using the Tool Shed
+ * Reload a tool wrapper (after some modifications)
+ * Manage Users, quotas and groups
+ * Use data managers
+ * Manage data libraries (shared data)
+.center.image[![Administration](./images/administration.png)]
