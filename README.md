@@ -86,6 +86,6 @@ Lunch will be taken in 7Hotel restaurant.
 | 11:45 | Users, Groups, and Quotas | [Slides](https://igbmc.github.io/egdw2017/day4/admin/08-quota-users-groups/index.html) | S |
 | 12:05 | Building an European Community |  | Fr |
 | 12:30 | **Lunch**, *catered* | | |
-| 13:30 | Docker | [Slides](https://vdda.github.io/revealJS_test/docker_intro2.html#/) [Other slides](http://galaxyproject.github.io/training-material//Admin-Corner/slides/galaxy_docker) | Ab + V |
+| 13:30 | Docker | [Slides](https://vdda.github.io/revealJS_test/docker_intro2.html#/), [Other slides](http://galaxyproject.github.io/training-material//Admin-Corner/slides/galaxy_docker), [swarm](https://github.com/igbmc/egdw2017/tree/master/day4/admin/10-docker-swarm)| Ab + V |
 | 15:30 | **Afternoon Break** | | |
 | 16:00 | Close Day 4 |  |  |
