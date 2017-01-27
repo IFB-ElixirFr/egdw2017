@@ -32,7 +32,7 @@ Lunch will be taken in 7Hotel restaurant.
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
-| 09:00 | Welcome and Introduction | [Slides](https://igbmc.github.io/egdw2017/day1/introduction.pdf) | All |
+| 09:00 | Welcome and Introduction | [Slides](https://ifb-elixirfr.github.io/egdw2017/day1/introduction.pdf) | All |
 | 10:00 | **Morning Break** |  |  |
 | 10:30 | Galaxy Tool Integration Best Practices | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/tool_integration.html) | A + Bé + B + G |
 | 11:30 | Planemo Tool Wrapping | [Slides](http://galaxyproject.github.io/training-material/Dev-Corner/slides/tool_integration.html) | A + Bé + B + G |
@@ -52,7 +52,7 @@ Lunch will be taken in 7Hotel restaurant.
 | 12:30 | **Lunch**, *catered* | | |
 | 13:30 | Wrap Session | [Slides](https://github.com/galaxyproject/training-material/tree/master/Dev-Corner) | |
 | 15:30 | **Afternoon Break** | | |
-| 16:00 | ToolShed upload and tool-iuc PR | [Slides](https://igbmc.github.io/egdw2017/day2/toolshed/index.html) | Bé + B + G |
+| 16:00 | ToolShed upload and tool-iuc PR | [Slides](https://ifb-elixirfr.github.io/egdw2017/day2/toolshed/index.html) | Bé + B + G |
 | 18:00 | Close Day 2, *Dinner on your own* |  |  |
 
 ### Wednesday
@@ -74,18 +74,18 @@ Lunch will be taken in 7Hotel restaurant.
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
-| 09:00 | Installation | [Slides](https://igbmc.github.io/egdw2017/day4/admin/00-installation/index.html) | J |
-| 09:25 | Galaxy Configuration Hierarchy | [Slides](https://igbmc.github.io/egdw2017/day4/admin/01-configuration-hierarchy/index.html) | J |
-| 09:50 | Database choice and configuration | [Slides](https://igbmc.github.io/egdw2017/day4/admin/02-database/index.html) | J |
+| 09:00 | Installation | [Slides](https://ifb-elixirfr.github.io/egdw2017/day4/admin/00-installation/index.html) | J |
+| 09:25 | Galaxy Configuration Hierarchy | [Slides](https://ifb-elixirfr.github.io/egdw2017/day4/admin/01-configuration-hierarchy/index.html) | J |
+| 09:50 | Database choice and configuration | [Slides](https://ifb-elixirfr.github.io/egdw2017/day4/admin/02-database/index.html) | J |
 | 10:10 | **Morning Break** |  |  |
-| 10:40 | Galaxy Handlers | [Slides](https://igbmc.github.io/egdw2017/day4/admin/03-handlers/index.html) | J |
-| 10:55 | Web server choices and configuration | [Slides](https://igbmc.github.io/egdw2017/day4/admin/04-web-server/index.html) | S |
-| 11:10 | Connecting Galaxy to a compute cluster | [Slides](https://igbmc.github.io/egdw2017/day4/admin/05-compute-cluster/index.html) | S |
-| 11:20 | Galaxy Administration | [Slides](https://igbmc.github.io/egdw2017/day4/admin/06-admin/index.html) | S |
-| 11:25 | Defining and importing genomes, Data Managers | [Slides](https://igbmc.github.io/egdw2017/day4/admin/07-genomes-datamanagers/index.html) | S |
-| 11:45 | Users, Groups, and Quotas | [Slides](https://igbmc.github.io/egdw2017/day4/admin/08-quota-users-groups/index.html) | S |
+| 10:40 | Galaxy Handlers | [Slides](https://ifb-elixirfr.github.io/egdw2017/day4/admin/03-handlers/index.html) | J |
+| 10:55 | Web server choices and configuration | [Slides](https://ifb-elixirfr.github.io/egdw2017/day4/admin/04-web-server/index.html) | S |
+| 11:10 | Connecting Galaxy to a compute cluster | [Slides](https://ifb-elixirfr.github.io/egdw2017/day4/admin/05-compute-cluster/index.html) | S |
+| 11:20 | Galaxy Administration | [Slides](https://ifb-elixirfr.github.io/egdw2017/day4/admin/06-admin/index.html) | S |
+| 11:25 | Defining and importing genomes, Data Managers | [Slides](https://ifb-elixirfr.github.io/egdw2017/day4/admin/07-genomes-datamanagers/index.html) | S |
+| 11:45 | Users, Groups, and Quotas | [Slides](https://ifb-elixirfr.github.io/egdw2017/day4/admin/08-quota-users-groups/index.html) | S |
 | 12:05 | Building an European Community |  | Fr |
 | 12:30 | **Lunch**, *catered* | | |
-| 13:30 | Docker | [Slides](https://vdda.github.io/revealJS_test/docker_intro2.html#/), [Other slides](http://galaxyproject.github.io/training-material//Admin-Corner/slides/galaxy_docker), [swarm](https://github.com/igbmc/egdw2017/tree/master/day4/admin/10-docker-swarm)| Ab + V |
+| 13:30 | Docker | [Slides](https://vdda.github.io/revealJS_test/docker_intro2.html#/), [Other slides](http://galaxyproject.github.io/training-material//Admin-Corner/slides/galaxy_docker), [swarm](https://github.com/ifb-elixirfr/egdw2017/tree/master/day4/admin/10-docker-swarm)| Ab + V |
 | 15:30 | **Afternoon Break** | | |
 | 16:00 | Close Day 4 |  |  |
